@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/exp_kundra/static/css/main.073c9b0a.css",
+    "main.js": "/exp_kundra/static/js/main.7655c8d0.js",
+    "static/js/787.339cabbd.chunk.js": "/exp_kundra/static/js/787.339cabbd.chunk.js",
+    "static/media/logo.svg": "/exp_kundra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/exp_kundra/index.html",
+    "main.073c9b0a.css.map": "/exp_kundra/static/css/main.073c9b0a.css.map",
+    "main.7655c8d0.js.map": "/exp_kundra/static/js/main.7655c8d0.js.map",
+    "787.339cabbd.chunk.js.map": "/exp_kundra/static/js/787.339cabbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7655c8d0.js"
+  ]
+}
